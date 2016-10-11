@@ -79,3 +79,4 @@
 #import <ResearchKit/ORKDiscreteGraphChartView.h>
 #import <ResearchKit/ORKPieChartView.h>
 
+#import <ResearchKit/ORKSkin.h>
